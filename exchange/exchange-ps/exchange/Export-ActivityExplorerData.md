@@ -274,10 +274,13 @@ Accept wildcard characters: False
 ### CommonParameters
 This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable, -InformationAction, -InformationVariable, -OutVariable, -OutBuffer, -PipelineVariable, -Verbose, -WarningAction, and -WarningVariable. For more information, see [about_CommonParameters](https://go.microsoft.com/fwlink/p/?LinkID=113216).
 
+
+
 ## INPUTS
 
 ## OUTPUTS
 
 ## NOTES
+- The date-time field exported via this cmdlet is in UTC timezone.
 
 ## RELATED LINKS
